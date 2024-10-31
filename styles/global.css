@@ -41,7 +41,7 @@ h1, h2, h3 {
   font: inherit;
 }
 
-/* utility-firsy é quando tem uma classe que ela vai fazer apenas uma coisa */
+/* utility-first é quando tem uma classe que ela vai fazer apenas uma coisa */
 .grid {
   display: grid;
 }
